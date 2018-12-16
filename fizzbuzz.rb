@@ -3,6 +3,7 @@
 def fizzbuzz(int)
   if int % 3 == 0 && int % 5 == 0
     "Fizzbuzz"
-  elsif int % 3 == 
+  elsif int % 3 == 0
+  ""
   end
 end
